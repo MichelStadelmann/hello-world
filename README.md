@@ -1,2 +1,2 @@
 # hello-world
-frist steps on git...
+coding coding this autumn
